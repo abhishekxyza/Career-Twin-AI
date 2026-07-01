@@ -1,0 +1,10 @@
+{
+  "name": "Career Twin AI",
+  "short_name": "CareerTwin",
+  "description": "AI Career Operating System with a living Career Digital Twin.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": []
+}
